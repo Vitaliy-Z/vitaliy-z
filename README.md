@@ -7,8 +7,6 @@
 
 ##  🔥 I'm Full Stack Developer 🔥
 
-#### 🔎 I’m looking for job now 🕵️‍♂️
-
  <br/>
 
 ## 👇 My Github Stats 👇
