@@ -3,12 +3,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-z--vitaliy-0088cc?style=flat&logo=telegram&labelColor=0088cc&link=https://www.linkedin.com/in/vitaliy-zvieriev/)](https://t.me/z-vitaliy/)
 <!-- [![Github Badge](https://img.shields.io/badge/-vitaliy--z-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vitaliy-z/)](https://www.github.com/vitaliy-z/) -->
 
-# Hi there 👋, my name is Vitalii 😎
-
-##  🔥 I'm Fullstack Developer 🔥
-
- <br/>
-
 ## 👇 My Github Stats 👇
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaliy-z&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
