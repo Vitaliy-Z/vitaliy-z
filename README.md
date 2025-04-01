@@ -3,7 +3,7 @@
   
   <h1>Hey there, I'm Vitalii Zvieriev! <img src="./assets/giphy.gif" width="30px" alt="GIF"></h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-vitaliy--zvieriev-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/vitaliy-zvieriev/)](https://www.linkedin.com/in/vitaliy-zvieriev/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-zvieriev/)
 [![Gmail Badge](https://img.shields.io/badge/-vitaliyzvieriev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vitaliyzvieriev@gmail.com)](mailto:vitaliyzvieriev@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-z--vitaliy-0088cc?style=flat&logo=telegram&labelColor=0088cc&link=https://www.linkedin.com/in/vitaliy-zvieriev/)](https://t.me/z-vitaliy/)
 
