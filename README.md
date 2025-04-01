@@ -3,10 +3,6 @@
   
   <h1>Hey there, I'm Vitalii Zvieriev! <img src="./assets/giphy.gif" width="30px" alt="GIF"></h1>
 </div>
-  
-### About Me :
-
-Fullstack Developer ( React.js | Node.js )
 
 <div align="center">
 
@@ -16,23 +12,9 @@ Fullstack Developer ( React.js | Node.js )
 
 </div>
 
-<!-- ### Languages :
+### About Me :
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table  align="center">
-  <tr>
-
-        🇺🇦 Ukrainian - Native
-
-  </tr>
-
-  <tr>
-
-        🇬🇧 English - Pre-Intermediate
-
-  </tr>
-</table>
-</div> -->
+Fullstack Developer ( React.js | Node.js )
 
 ### My stack and tools :
 
