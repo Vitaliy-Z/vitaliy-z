@@ -75,23 +75,19 @@ Fullstack Developer ( React.js | Node.js )
 
 ### GitHub Stats :
 
-<table align="center">
-  <tr>
-  <td>
+<div align="center">
   <a href="https://github.com/vitaliy-z/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vitaliy-z&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vitalii Zvieriev github stats" /></a>
-  </td>
-  </tr>
-  <tr>
-  <td>
+ </div>
+
+<div align="center">
   <a href="https://github.com/vitaliy-z/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliy-z&layout=compact&theme=buefy&hide_border=true" alt="Vitalii Zvieriev github stats"  /></a>
-  </td>
-  </tr>
-</table>
+</div>
 
 <div align=center> 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Coding+will+soon+be+as+important+as+reading;" alt="Fun Facts" /> 
 </div>
 
+<br>
 <br>
 
 <div align="center">
