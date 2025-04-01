@@ -4,7 +4,7 @@
   <h1>Hey there, I'm Vitalii Zvieriev! <img src="./assets/giphy.gif" width="30px" alt="GIF"></h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-zvieriev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(vitaliyzvieriev@gmail.com)](mailto:vitaliyzvieriev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitaliyzvieriev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/z_vitaliy)
 
 <hr/>
