@@ -67,7 +67,7 @@ Fullstack Developer ( React.js | Node.js )
       <br>Git
     </td>
     <td align="center" width="88">
-      <img src="./images/12-vscode.svg12-git.svg" alt="Git" width="44" height="44"/>
+      <img src="./images/12-vscode.svg" alt="Git" width="44" height="44"/>
       <br>VSCode
     </td>
 </table>
@@ -80,21 +80,18 @@ Fullstack Developer ( React.js | Node.js )
   <td>
   <a href="https://github.com/vitaliy-z/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vitaliy-z&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vitalii Zvieriev github stats" /></a>
   </td>
-  <td>
-  <a href="https://github.com/vitaliy-z/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliy-z&layout=compact&theme=buefy&hide_border=true" alt="Vitalii Zvieriev github stats"  /></a>
-  </td>
   </tr>
   <tr>
-  <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=vitaliy-z&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Vitalii Zvieriev GitHub Readme Streak Stats" /> </a>
+  <td>
+  <a href="https://github.com/vitaliy-z/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliy-z&layout=compact&theme=buefy&hide_border=true" alt="Vitalii Zvieriev github stats"  /></a>
   </td>
   </tr>
 </table>
 
 <div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Coding+will+soon+be+as+important+as+reading;" alt="Fun Facts" /> 
 </div>
-  
+
 <br>
 
 <div align="center">
