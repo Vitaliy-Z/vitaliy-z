@@ -7,6 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-vitaliyzvieriev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vitaliyzvieriev@gmail.com)](mailto:vitaliyzvieriev@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-z--vitaliy-0088cc?style=flat&logo=telegram&labelColor=0088cc&link=https://www.linkedin.com/in/vitaliy-zvieriev/)](https://t.me/z-vitaliy/)
 
+<hr/>
+
 </div>
 
 ### About Me :
